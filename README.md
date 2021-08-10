@@ -1,4 +1,4 @@
 # Study-Conclusion
 Just a little about thinking
 
-thx
+Maybe have some wrong
