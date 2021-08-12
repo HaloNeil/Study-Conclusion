@@ -3,4 +3,6 @@ Just a little about thinking
 
 Maybe have some wrong
 
-gihub neilclancy
+gihub neilclancy09
+
+email NeilClcancy09@gmail.com 
