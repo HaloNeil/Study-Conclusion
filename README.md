@@ -1,7 +1,7 @@
 # Study-Conclusion
 Just a little about thinking
 
-Maybe have some wrong（some bug）
+Maybe have some wrong（  Some bug）
 
 Github neilclancy09
 
