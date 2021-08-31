@@ -3,6 +3,6 @@ Just a little about thinking
 
 Maybe have some wrong（  Some Bug）
 
-Github neilclancy09
+Github Neilclancy09
 
 Email NeilClcancy09@gmail.com 
